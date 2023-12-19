@@ -1,0 +1,8 @@
+.env
+.DS_Store
+test_notebooks/
+.vscode/
+__pycache__/
+.ipynb_checkpoints
+dist/
+build/
